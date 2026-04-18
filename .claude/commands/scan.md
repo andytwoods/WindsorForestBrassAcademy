@@ -67,8 +67,24 @@ Write a scan summary to logs/scans/YYYY-MM-DD.md covering:
 - Upcoming deadlines within 8 weeks
 - Any recommended immediate actions
 
-## 6. Commit
+## 6. Rewrite README.md
 
-git add opportunities/ funders/ funder_sources/ logs/scans/ && git commit -m "scan: YYYY-MM-DD"
+Regenerate README.md from the current state of all opportunity files. It must include:
+- Last scan date and link to today's scan log
+- Charity registration status (from ASSUMPTIONS.md)
+- Pipeline summary table: count of opportunities by state
+- Apply now table: all apply_now opportunities with amount, deadline, next action, due date
+- Upcoming deadlines within 8 weeks: all opportunities with a deadline or next_action_due in that window
+- Apply when registered table: all apply_when_registered opportunities
+- Monitor table: all monitor opportunities with next check date
+- Parked table: all parked opportunities with blocker and review_date
+
+Do not include rejected opportunities in the README.
+
+End the file with: `*This file is regenerated automatically on each weekly scan. Do not edit manually.*`
+
+## 7. Commit
+
+git add opportunities/ funders/ funder_sources/ logs/scans/ README.md && git commit -m "scan: YYYY-MM-DD"
 
 Print the scan summary to stdout after committing.

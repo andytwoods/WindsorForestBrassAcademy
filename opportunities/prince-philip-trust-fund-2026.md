@@ -17,7 +17,7 @@ deadline: "2026-10-01"
 funding_cycle: "annual"   # two rounds per year: 1 March and 1 October
 
 # Eligibility
-geography: "Royal Borough of Windsor and Maidenhead (primary); projects outside considered if significant beneficiaries reside there"
+geography: "Royal Borough of Windsor and Maidenhead (primary); projects outside considered if reasonable number of beneficiaries reside there"
 charity_registration_required: true
 legal_form_required: "registered charity only"
 eligibility_summary: >
@@ -97,7 +97,7 @@ review_date: null       # set to registration date + 7 days once known
 ## Eligibility evidence
 
 - "Applicants must be registered charities." Source: theprincephiliptrustfund.org, checked 2026-04-23.
-- "The Fund particularly focuses on supporting people and projects in the area covered by the Royal Borough of Windsor and Maidenhead. Projects outside this area may be considered if a significant number of beneficiaries reside there." Source: theprincephiliptrustfund.org/funding-criteria/, checked 2026-04-23.
+- "The Fund particularly focuses on supporting people and projects in the area covered by the Royal Borough of Windsor and Maidenhead. Projects outside this area may be considered if a reasonable number of beneficiaries reside there." Source: theprincephiliptrustfund.org/funding-criteria/, checked 2026-04-27.
 - "Typical range £250 to £5,000. No official minimum or maximum. Grants exceeding the upper limit require exceptional circumstances." Source: theprincephiliptrustfund.org/funding-criteria/, checked 2026-04-23.
 - "The fund tends not to award multi-year funding, preferring instead to support one-off projects." Source: theprincephiliptrustfund.org/funding-criteria/, checked 2026-04-23.
 - "What they won't fund: Standard school education or undergraduate degree programs." Source: theprincephiliptrustfund.org/funding-criteria/, checked 2026-04-23.

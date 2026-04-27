@@ -7,6 +7,16 @@
 
 ---
 
+## Recommended immediate actions
+
+1. **URGENT — Email Youth Music** (grants@youthmusic.org.uk) to confirm whether WFBA can apply for Round 14 without a registered charity number. Due **2026-04-30**.
+2. **Email Cllr Marisa Heath** (marisa.heath@surreycc.gov.uk) in the first week of May to introduce WFBA's outreach work and ask for support from the Your Councillor Community Fund 2026-27 cycle.
+3. **Draft Awards for All application** — highest-priority apply_now. Outreach workshops focus, £5k–£15k. Confirm bank account has dual signatories first. Internal target: **2026-05-09**.
+4. **Prepare Surrey CF EOI** — window opens 25 May. Draft community wellbeing / music access framing by **2026-05-20**.
+5. **Check RBWM round** — verify 2026 round is open and confirm geography/registration requirement by **2026-05-16**.
+
+---
+
 ## Pipeline summary
 
 | State | Count |

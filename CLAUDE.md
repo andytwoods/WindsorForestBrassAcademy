@@ -57,6 +57,8 @@ When regenerating README.md, always include this line near the top (after the h1
 **Site:** [andytwoods.github.io/WindsorForestBrassAcademy](https://andytwoods.github.io/WindsorForestBrassAcademy/)  
 ```
 
+README.md must also include a **"Recommended immediate actions"** section (numbered list, placed before the Pipeline summary) drawn from the current scan log's recommended actions. Keep it to the top 3–5 most urgent items with due dates.
+
 ## Current organisational status
 
 - Charity registration: **pending** (no charity number yet)

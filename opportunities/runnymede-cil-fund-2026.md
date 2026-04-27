@@ -6,8 +6,8 @@ funder: Runnymede Borough Council
 funder_type: local_authority
 state: parked
 state_rationale: £1.3m Community Infrastructure Levy fund open to community groups, but amounts available vary by ward based on local development activity. Need to confirm how much is available in Englefield Green ward before assessing viability.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+last_updated: 2026-04-27
+last_verified_date: 2026-04-27
 provenance: https://www.runnymede.gov.uk/news/article/253/new-1-3m-fund-opens-for-community-project-bids
 
 amount_min: null
@@ -46,11 +46,11 @@ score_rationale: Potentially useful for instruments or equipment but amount unkn
 linked_programmes:
   - instruments and cost-reduction support
 
-next_action: When calling Runnymede about the main Community Grant, also ask about CIL fund availability in Englefield Green ward.
-next_action_due: 2026-04-25
+next_action: When Runnymede Community Grant round reopens (expected September 2026), also enquire about CIL fund availability in Englefield Green ward and whether programme delivery or instrument purchase costs are eligible.
+next_action_due: 2026-09-01
 blocker: Ward-level allocation for Englefield Green unknown; fund purpose may favour built infrastructure over programme delivery
 unblock_condition: Confirm ward allocation amount and whether instrument purchase qualifies
-review_date: 2026-04-25
+review_date: 2026-09-01
 ---
 
 ## Notes

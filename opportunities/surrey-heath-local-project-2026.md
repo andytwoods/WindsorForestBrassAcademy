@@ -6,8 +6,8 @@ funder: Surrey Heath Borough Council
 funder_type: local_authority
 state: monitor
 state_rationale: Next application window expected July 2026. Current window closed. Worth monitoring — Surrey Heath is adjacent to Runnymede and WFBA may have or plan delivery in that area.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+last_updated: 2026-04-27
+last_verified_date: 2026-04-27
 provenance: https://www.surreyheath.gov.uk/community/grants-and-funding/local-project-funding
 
 amount_min: null

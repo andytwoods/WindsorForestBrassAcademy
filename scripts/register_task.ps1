@@ -1,6 +1,6 @@
 # Run this once as Administrator to register the scheduled task.
 
-$action = New-ScheduledTaskAction -Execute 'powershell.exe' -Argument '-NonInteractive -File C:\Users\andyt\PycharmProjects\WindsorForestBrassAcademy\run_scan.ps1'
+$action = New-ScheduledTaskAction -Execute 'C:\Users\andyt\PycharmProjects\WindsorForestBrassAcademy\run_scan.bat'
 $trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At 5:00AM
 $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable -ExecutionTimeLimit (New-TimeSpan -Hours 2)
 Register-ScheduledTask -TaskName 'Claude WFBA scan' -Action $action -Trigger $trigger -Settings $settings -Force

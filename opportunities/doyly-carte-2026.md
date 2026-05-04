@@ -6,8 +6,8 @@ funder: D'Oyly Carte Charitable Trust
 funder_type: charitable_trust
 state: parked
 state_rationale: Requires UK-registered charity status and audited annual accounts. WFBA has neither yet. June 2026 deadline unreachable; audited accounts won't be available until at least 2027. Strong fit for future cycles — revisit March 2027.
-last_updated: 2026-04-20
-last_verified_date: 2026-04-20
+last_updated: 2026-05-04
+last_verified_date: 2026-05-04
 provenance: https://doylycartecharitabletrust.org/apply-for-funding/
 
 amount_min: 500

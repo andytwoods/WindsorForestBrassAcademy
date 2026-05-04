@@ -6,8 +6,8 @@ funder: BBC Children in Need
 funder_type: charitable_trust
 state: parked
 state_rationale: Grants over £15k require registered charity. Sub-£15k requires "registered not-for-profit organisation" — meaning and threshold unclear for pending charity applicants. Must also show majority of beneficiaries are experiencing disadvantage. Eligibility needs verification before applying.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+last_updated: 2026-05-04
+last_verified_date: 2026-05-04
 provenance: https://www.bbcchildreninneed.co.uk/grants/
 
 amount_min: 1000

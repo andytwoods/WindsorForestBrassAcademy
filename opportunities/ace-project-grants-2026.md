@@ -6,8 +6,8 @@ funder: Arts Council England
 funder_type: arts_council
 state: apply_when_registered
 state_rationale: Rolling fund £1k–£100k. Requires ACE organisational registration, which requires charity number. Register with ACE immediately on receiving charity number.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+last_updated: 2026-05-04
+last_verified_date: 2026-05-04
 provenance: https://www.artscouncil.org.uk/ProjectGrants
 
 amount_min: 1000

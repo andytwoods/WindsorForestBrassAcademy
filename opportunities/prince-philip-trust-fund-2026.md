@@ -6,8 +6,8 @@ funder: "Prince Philip Trust Fund"
 funder_type: charitable_trust
 state: apply_when_registered
 state_rationale: "Strong thematic fit on arts and young people; blocked solely by charity registration requirement; next realistic deadline is 1 October 2026."
-last_updated: 2026-04-23
-last_verified_date: 2026-04-23
+last_updated: 2026-05-04
+last_verified_date: 2026-05-04
 provenance: "https://theprincephiliptrustfund.org/ — checked 2026-04-23"
 
 # Funding details

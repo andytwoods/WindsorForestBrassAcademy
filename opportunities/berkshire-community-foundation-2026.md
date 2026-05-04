@@ -6,8 +6,8 @@ funder: Berkshire Community Foundation
 funder_type: charitable_trust
 state: monitor
 state_rationale: Spring 2026 round closed January 2026. Next round date unknown. Berkshire geography overlaps with WFBA delivery area. Monitor for next round opening.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+last_updated: 2026-05-04
+last_verified_date: 2026-05-04
 provenance: https://www.berkshirecf.org/available-funding/vital-for-berkshire-fund/
 
 amount_min: null

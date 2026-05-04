@@ -4,10 +4,10 @@ name: RBWM Grants to Voluntary Organisations
 type: opportunity
 funder: Royal Borough of Windsor and Maidenhead
 funder_type: local_authority
-state: apply_when_registered
-state_rationale: Not-for-profit voluntary organisations invited to apply. Previous recipients include arts organisations (Windsor Festival Society, £2,000). Likely requires formal non-profit status. Deadline historically 30 September — verify 2026 round.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+state: monitor
+state_rationale: Charity registration likely NOT required — eligibility confirmed as "not-for-profit voluntary organisations with a constitution/terms of reference." Deadline historically 30 September. State changed from apply_when_registered; now blocked on geography confirmation (WFBA delivery in RBWM needed) and round-open verification.
+last_updated: 2026-05-04
+last_verified_date: 2026-05-04
 provenance: https://www.rbwm.gov.uk/home/community-and-living/grants-voluntary-organisations
 
 amount_min: null
@@ -17,12 +17,12 @@ funding_cycle: annual
 funding_cycle_notes: Historically closes 30 September. Verify 2026 round is open and confirm deadline.
 
 geography: Royal Borough of Windsor and Maidenhead
-charity_registration_required: unclear
-legal_form_required: Not-for-profit voluntary organisation
+charity_registration_required: false
+legal_form_required: Not-for-profit voluntary organisation with constitution/terms of reference — registered charity NOT explicitly required
 eligibility_summary: Capital and revenue grants for not-for-profit voluntary organisations serving RBWM communities. Capital strand (£75,000 total pot) for equipment and facilities; revenue strand also available. Previous arts recipients noted.
 
 gate_legal_form: pass
-gate_charity_registration: unclear
+gate_charity_registration: not_required
 gate_geography: unclear
 gate_beneficiary: pass
 gate_programme: pass
@@ -48,10 +48,10 @@ linked_programmes:
   - instruments and cost-reduction support
   - outreach workshops
 
-next_action: Confirm WFBA has delivery activity in RBWM geography (e.g. outreach workshops reaching Windsor/Maidenhead schools). Check 2026 round status and deadline on RBWM website.
-next_action_due: 2026-05-16
-blocker: Geography overlap with RBWM unconfirmed; charity registration requirement unclear; 2026 round not yet verified open
-unblock_condition: Confirm geography, verify round is open, confirm registration requirement
+next_action: Confirm WFBA has delivery activity in RBWM geography (e.g. outreach workshops reaching Windsor/Maidenhead schools). Check rbwm.gov.uk for 2026 round open status — historically September 30 deadline. Charity registration NOT required (constitution sufficient).
+next_action_due: 2026-05-30
+blocker: Geography overlap with RBWM unconfirmed; 2026 round not yet verified open
+unblock_condition: Confirm geography, verify round is open
 review_date: 2026-07-01
 ---
 
@@ -64,7 +64,10 @@ The Windsor Festival Society precedent (£2,000 grant) shows arts organisations 
 ## Eligibility evidence
 
 "Not-for-profit voluntary organisations" eligible. Windsor Festival Society previous recipient. Source: [RBWM grants page](https://www.rbwm.gov.uk/home/community-and-living/grants-voluntary-organisations), checked 2026-04-18.
+"Organisations should be not-for-profit, third sector voluntary or community group, active in their local community. Organisations should have a constitution/terms of reference." — registered charity NOT explicitly required. Source: rbwm.gov.uk grants pages via web search, verified 2026-05-04.
+Deadline historically 30 September. Source: RBWM news, verified 2026-05-04.
 
 ## State history
 
 2026-04-18: set to apply_when_registered — registration requirement and geography to confirm; historically September deadline gives time after registration.
+2026-05-04: changed to monitor — confirmed charity registration NOT required (constitution sufficient); remaining blocker is geography confirmation (delivery activity in RBWM) and 2026 round verification.

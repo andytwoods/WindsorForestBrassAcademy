@@ -6,8 +6,8 @@ funder: National Lottery Community Fund
 funder_type: lottery
 state: apply_now
 state_rationale: Rolling fund, no registered charity required — constituted org with dual-signatory bank account is sufficient. Meets all Stage 1 gates.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+last_updated: 2026-05-04
+last_verified_date: 2026-05-04
 provenance: https://www.tnlcommunityfund.org.uk/funding/funding-programmes/national-lottery-awards-for-all-england/
 
 amount_min: 300

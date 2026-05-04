@@ -6,8 +6,8 @@ funder: Garfield Weston Foundation
 funder_type: charitable_trust
 state: apply_when_registered
 state_rationale: Rolling fund, registered charity required. Wide remit includes arts, education, youth, and community. £1k–£100k range accessible. Apply once charity number confirmed.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+last_updated: 2026-05-04
+last_verified_date: 2026-05-04
 provenance: https://garfieldweston.org/what-we-fund/
 
 amount_min: 1000

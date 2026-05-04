@@ -6,8 +6,8 @@ funder: Runnymede Borough Council
 funder_type: local_authority
 state: monitor
 state_rationale: Current 2025-26 round closed; final decisions made by Community Services Committee on 11 March 2026. Grant Aid Policy runs to March 2027 — next round expected later in 2026. Monitor for reopening.
-last_updated: 2026-04-20
-last_verified_date: 2026-04-20
+last_updated: 2026-05-04
+last_verified_date: 2026-05-04
 provenance: https://www.runnymede.gov.uk/community-facilities/Grant-funding/5
 
 amount_min: null

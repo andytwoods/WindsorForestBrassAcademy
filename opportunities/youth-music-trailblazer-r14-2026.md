@@ -5,9 +5,9 @@ type: opportunity
 funder: Youth Music
 funder_type: charitable_trust
 state: monitor
-state_rationale: Round 14 opens 23 October 2026, closes 20 November 2026. Excellent mission fit. Charity registration requirement unclear — "constituted organisations" language used but needs confirmation. Begin preparation in August 2026.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+state_rationale: Round 14 opens 23 October 2026, closes 20 November 2026. Excellent mission fit. Charity registration NOT required — confirmed "constituted UK-based organisations" can apply. Begin preparation August 2026.
+last_updated: 2026-05-04
+last_verified_date: 2026-05-04
 provenance: https://www.youthmusic.org.uk/funding/i-need-funding/trailblazer-fund
 
 amount_min: 2000
@@ -17,12 +17,12 @@ funding_cycle: annual
 funding_cycle_notes: Round 14 opens 2026-10-23, closes 2026-11-20 at 5pm. Projects must start April–June 2027.
 
 geography: England
-charity_registration_required: unclear
-legal_form_required: Constituted UK-based organisation — registered charity not explicitly required per Q&A but confirm with Youth Music before applying
+charity_registration_required: false
+legal_form_required: Constituted UK-based organisation with bank account in organisation's name and recent financial accounts — registered charity NOT required
 eligibility_summary: Grants £2,000–£30,000 for organisations in England running music projects for children and young people (under 25) facing barriers. Safeguarding is a core requirement. Schools cannot apply. Rolling annual fund.
 
 gate_legal_form: pass
-gate_charity_registration: unclear
+gate_charity_registration: not_required
 gate_geography: pass
 gate_beneficiary: pass
 gate_programme: pass
@@ -49,8 +49,8 @@ linked_programmes:
   - Year 4 school brass teaching
   - starter band
 
-next_action: Email grants@youthmusic.org.uk now to confirm eligibility without registered charity status. Begin preparing project brief for outreach workshops programme in August 2026 ready for October window.
-next_action_due: 2026-04-30
+next_action: Charity registration confirmed as NOT required (constituted org sufficient). Begin preparing project brief for outreach workshops programme in August 2026 ready for October window. Contact grants@youthmusic.org.uk to introduce WFBA and ask about readiness criteria.
+next_action_due: 2026-08-01
 blocker: ""
 unblock_condition: ""
 review_date: 2026-08-01
@@ -64,14 +64,19 @@ This is the highest-scoring opportunity in the pipeline. Youth Music's entire mi
 - Progression pathway from first access into ensemble membership maps directly to their theory of change
 - School outreach and community music are both explicitly funded
 
-**Eligibility question to resolve:** Youth Music's Q&A states "constituted UK-based organisations" can apply, but the wording in some secondary sources implies registered charity status helps. Email them now to get a definitive answer. If registration is required, this moves to apply_when_registered.
+**Eligibility confirmed (2026-05-04):** Charity registration NOT required. Confirmed "constituted UK-based organisations" with a bank account in the organisation's name and recent financial accounts can apply. This is WFBA's strongest future prospect.
 
 **Timing note:** Round 14 funds projects starting April–June 2027. This is not useful for the September 2026 Year 4 launch, but is ideal for the outreach programme, which will benefit from a year of planning time.
 
+Round 12 closed 10 April 2026. Round 13 is currently open (presumably a later deadline). Round 14 opens October 23, 2026.
+
 ## Eligibility evidence
 
-"Constituted UK based organisations may apply." Source: Youth Music Q&A page [via Connected Voice / CVAC summaries], checked 2026-04-18. Contact: grants@youthmusic.org.uk
+"Constituted UK based organisations may apply." Source: Youth Music Q&A page [via Connected Voice / CVAC summaries], checked 2026-04-18.
+"Constituted, UK‑based organisations delivering projects in England" — confirmed as eligibility requirement; registered charity status NOT mentioned as requirement. Source: fundsforngos.org/youth-music-trailblazer summary + youthmusic.org.uk/funding/i-need-funding/trailblazer-fund, verified 2026-05-04.
+Contact: grants@youthmusic.org.uk
 
 ## State history
 
 2026-04-18: set to monitor — opens October 2026; eligibility question about registration to be resolved by email.
+2026-05-04: updated gate_charity_registration from unclear to not_required — confirmed constituted organisations can apply without registered charity status.

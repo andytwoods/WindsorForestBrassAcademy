@@ -5,16 +5,16 @@ type: opportunity
 funder: Community Foundation for Surrey
 funder_type: charitable_trust
 state: monitor
-state_rationale: EOI reopens 25 May 2026. Primary focus is social welfare, cohesion, and community need — music education is not the primary lens. Likely requires registration. Worth submitting an EOI when the window opens to test fit.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+state_rationale: EOI window opens 25 May 2026 (9am), EOI deadline 2 July 2026. Also accessible is the Surrey Community Music Fund — a dedicated music fund administered by CF Surrey supporting young people's regular music participation. Primary framing: community wellbeing and/or Surrey Community Music Fund.
+last_updated: 2026-05-09
+last_verified_date: 2026-05-09
 provenance: https://www.cfsurrey.org.uk/apply
 
 amount_min: null
 amount_max: null
-deadline: 2026-05-25
+deadline: 2026-07-02
 funding_cycle: biannual
-funding_cycle_notes: EOI window reopens 25 May 2026. Two-stage process: EOI first, then full application if invited.
+funding_cycle_notes: Main Grants Round 2 (2026-27): EOI window opens 25 May 2026 at 9am, EOI deadline 2 July 2026 at 5pm. Full application deadline 1 September 2026. Decision notification week of 14 December 2026. Two-stage process. Surrey Community Music Fund operates on the same EOI cycle.
 
 geography: Surrey
 charity_registration_required: unclear
@@ -49,7 +49,7 @@ linked_programmes:
   - starter band
   - community music participation
 
-next_action: When EOI window opens 25 May 2026, submit a short EOI using community wellbeing framing. Confirm charity registration requirement on application portal before submitting.
+next_action: When EOI window opens 25 May 2026, submit EOI. Prioritise the Surrey Community Music Fund framing (young musicians, access, financial disadvantage) alongside the community wellbeing framing. Confirm charity registration requirement on portal before submitting. EOI deadline is 2 July 2026 — don't delay beyond the opening week.
 next_action_due: 2026-05-25
 blocker: ""
 unblock_condition: ""
@@ -58,9 +58,13 @@ review_date: 2026-05-20
 
 ## Notes
 
-Primary focus areas don't naturally include music education, but community cohesion, reducing isolation, and building belonging are explicitly listed. The community wellbeing framing from OVERVIEW.md is the right lens here — not arts education.
+Two funding routes available through CF Surrey via the same EOI:
 
-An EOI is a short form with low time cost. Worth attempting even if the fit is imperfect.
+1. **Surrey Community Music Fund** — a dedicated music fund supporting young people who would not otherwise have the opportunity to participate in regular music activities. This is a stronger fit for WFBA than the general Main Grants Round. Use the music access / youth participation framing. Eligibility requirement (charity registration) TBC on portal.
+
+2. **Main Grants Round** — primary focus on social welfare, community cohesion, health. Music education is a stretch. Use the community wellbeing framing (reducing isolation, belonging, intergenerational participation) rather than the arts/education lens.
+
+An EOI is a short form with low time cost. Worth attempting for both routes in one submission. EOI window: 25 May – 2 July 2026.
 
 ## Eligibility evidence
 
@@ -69,3 +73,4 @@ EOI reopens 25 May 2026. Source: [cfsurrey.org.uk/apply](https://www.cfsurrey.or
 ## State history
 
 2026-04-18: set to monitor — EOI window opens 25 May; registration and fit both need checking before then.
+2026-05-09: updated — full Round 2 timeline confirmed (EOI deadline 2 July, full app 1 Sep, decisions 14 Dec). Surrey Community Music Fund identified as a specific music-focused route within CF Surrey, accessible via the same EOI. File and framing updated accordingly.

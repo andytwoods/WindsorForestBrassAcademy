@@ -5,16 +5,16 @@ type: opportunity
 funder: Berkshire Community Foundation
 funder_type: charitable_trust
 state: monitor
-state_rationale: Spring 2026 round closed January 2026. Next round date unknown. Berkshire geography overlaps with WFBA delivery area. Monitor for next round opening.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
-provenance: https://www.berkshirecf.org/available-funding/vital-for-berkshire-fund/
+state_rationale: Vital for Berkshire Fund URL now 404 — fund may have been restructured. Grassroots Grants (up to £5,000, flexible) reopens January 2027. Next relevant round is January–March 2027. Monitor from January 2027.
+last_updated: 2026-05-09
+last_verified_date: 2026-05-09
+provenance: https://www.berkshirecf.org/available-funding/ (note: original Vital for Berkshire Fund URL returned 404 on 2026-05-09; check main available-funding page)
 
 amount_min: null
 amount_max: null
 deadline: null
 funding_cycle: biannual
-funding_cycle_notes: Spring 2026 round closed 29 January 2026. Next round date unknown — check website from June 2026.
+funding_cycle_notes: Vital for Berkshire Fund URL returned 404 on 2026-05-09 — may have been restructured or renamed. Grassroots Grants (up to £5,000, flexible purposes) opens January–March 2027. Small & Vital Grants (up to £1,000) open year-round but too small for WFBA programme funding. Check berkshirecf.org/available-funding from January 2027.
 
 geography: Berkshire
 charity_registration_required: unclear
@@ -48,13 +48,14 @@ linked_programmes:
   - outreach workshops
   - instruments and cost-reduction support
 
-next_action: Check berkshirecf.org from June 2026 for next round announcement. Prepare to submit if round opens before September 2026 deadline pressure.
-next_action_due: 2026-06-01
-blocker: Current round closed; next round date unknown
-unblock_condition: Next round opens
-review_date: 2026-06-01
+next_action: Check berkshirecf.org/available-funding from January 2027 for Grassroots Grants opening (and check whether Vital for Berkshire Fund has been relaunched under a new name). Prepare to submit when a suitable round opens.
+next_action_due: 2027-01-01
+blocker: All current rounds either closed or not yet open; Vital for Berkshire Fund URL broken
+unblock_condition: Grassroots Grants or equivalent round opens
+review_date: 2027-01-01
 ---
 
 ## State history
 
 2026-04-18: set to monitor — current round closed; next round expected mid-2026.
+2026-05-09: updated — Vital for Berkshire Fund URL returning 404; fund may have been restructured. Grassroots Grants identified as next relevant vehicle (opens Jan 2027). Next action pushed to January 2027.

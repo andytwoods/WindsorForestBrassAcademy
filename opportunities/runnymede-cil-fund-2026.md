@@ -6,8 +6,8 @@ funder: Runnymede Borough Council
 funder_type: local_authority
 state: parked
 state_rationale: £1.3m Community Infrastructure Levy fund open to community groups, but amounts available vary by ward based on local development activity. Need to confirm how much is available in Englefield Green ward before assessing viability.
-last_updated: 2026-04-18
-last_verified_date: 2026-04-18
+last_updated: 2026-05-09
+last_verified_date: 2026-05-09
 provenance: https://www.runnymede.gov.uk/news/article/253/new-1-3m-fund-opens-for-community-project-bids
 
 amount_min: null
@@ -46,11 +46,11 @@ score_rationale: Potentially useful for instruments or equipment but amount unkn
 linked_programmes:
   - instruments and cost-reduction support
 
-next_action: When calling Runnymede about the main Community Grant, also ask about CIL fund availability in Englefield Green ward.
-next_action_due: 2026-04-25
-blocker: Ward-level allocation for Englefield Green unknown; fund purpose may favour built infrastructure over programme delivery
-unblock_condition: Confirm ward allocation amount and whether instrument purchase qualifies
-review_date: 2026-04-25
+next_action: Contact Runnymede CIL team (IDCteam@runnymede.gov.uk or 01932 838383) to ask: (1) how much CIL is available in Englefield Green (CIL Area 9); (2) whether instrument purchase or outreach programme delivery qualifies as "community infrastructure". Englefield Green is confirmed as CIL Area 9 covering East and West Wards and the Englefield Neighbourhood Forum.
+next_action_due: 2026-06-30
+blocker: Ward-level allocation amount for Englefield Green (Area 9) unknown; fund purpose may favour built infrastructure over programme delivery
+unblock_condition: Confirm CIL allocation amount in Area 9 and whether programme/instrument expenditure qualifies
+review_date: 2026-06-30
 ---
 
 ## Notes
@@ -60,3 +60,4 @@ CIL funds are generated from developer contributions and are ring-fenced to area
 ## State history
 
 2026-04-18: set to parked — blocker is unknown ward allocation and unclear fit for non-infrastructure projects.
+2026-05-09: review_date updated (was 2026-04-25, overdue). Confirmed: Englefield Green is CIL Area 9 (covers East Ward, West Ward, and Englefield Neighbourhood Forum). Amount available in Area 9 still unknown. Updated next action with contact details.

@@ -1,20 +1,20 @@
 ---
 id: opp-2026-004
-name: Youth Music Trailblazer Fund — Round 14
+name: Youth Music Trailblazer Fund — Rounds 13 & 14
 type: opportunity
 funder: Youth Music
 funder_type: charitable_trust
 state: monitor
-state_rationale: Round 14 opens 23 October 2026, closes 20 November 2026. Excellent mission fit. Charity registration NOT required — confirmed "constituted UK-based organisations" can apply. Begin preparation August 2026.
-last_updated: 2026-05-04
-last_verified_date: 2026-05-04
+state_rationale: Two actionable rounds: Round 13 opens 31 July 2026 (closes 28 Aug; projects Jan-Mar 2027) and Round 14 opens 23 Oct 2026 (closes 20 Nov; projects Apr-Jun 2027). Excellent mission fit. Charity registration NOT required — confirmed "constituted UK-based organisations" can apply. Prioritise Round 13 — brief should be ready by late July 2026.
+last_updated: 2026-05-11
+last_verified_date: 2026-05-11
 provenance: https://www.youthmusic.org.uk/funding/i-need-funding/trailblazer-fund
 
 amount_min: 2000
 amount_max: 30000
-deadline: 2026-11-20
+deadline: 2026-08-28
 funding_cycle: annual
-funding_cycle_notes: Round 14 opens 2026-10-23, closes 2026-11-20 at 5pm. Projects must start April–June 2027.
+funding_cycle_notes: Round 13 opens 2026-07-31, closes 2026-08-28 at 5pm. Projects start January–March 2027. Round 14 opens 2026-10-23, closes 2026-11-20 at 5pm. Projects start April–June 2027. Round 12 closed April 2026.
 
 geography: England
 charity_registration_required: false
@@ -49,8 +49,8 @@ linked_programmes:
   - Year 4 school brass teaching
   - starter band
 
-next_action: Charity registration confirmed as NOT required (constituted org sufficient). Begin preparing project brief for outreach workshops programme in August 2026 ready for October window. Contact grants@youthmusic.org.uk to introduce WFBA and ask about readiness criteria.
-next_action_due: 2026-08-01
+next_action: Charity registration confirmed as NOT required. Begin preparing project brief for outreach workshops programme NOW — target Round 13 (opens 31 July 2026, closes 28 Aug). Contact grants@youthmusic.org.uk to introduce WFBA. Round 13 projects start Jan–Mar 2027 which maps well onto outreach programme after September 2026 launch.
+next_action_due: 2026-07-01
 blocker: ""
 unblock_condition: ""
 review_date: 2026-08-01
@@ -68,7 +68,9 @@ This is the highest-scoring opportunity in the pipeline. Youth Music's entire mi
 
 **Timing note:** Round 14 funds projects starting April–June 2027. This is not useful for the September 2026 Year 4 launch, but is ideal for the outreach programme, which will benefit from a year of planning time.
 
-Round 12 closed 10 April 2026. Round 13 is currently open (presumably a later deadline). Round 14 opens October 23, 2026.
+Round 12 closed April 2026. **Round 13 opens 31 July 2026, closes 28 August 2026 at 5pm. Projects must start January–March 2027.** Round 14 opens 23 October 2026, closes 20 November 2026 at 5pm. Projects must start April–June 2027.
+
+Round 13 is the priority: it opens sooner, and a January–March 2027 project start maps well onto WFBA's September 2026 school outreach launch. After a term of delivery, WFBA will have real participant data to reference in the application, making for a stronger submission.
 
 ## Eligibility evidence
 
@@ -80,3 +82,4 @@ Contact: grants@youthmusic.org.uk
 
 2026-04-18: set to monitor — opens October 2026; eligibility question about registration to be resolved by email.
 2026-05-04: updated gate_charity_registration from unclear to not_required — confirmed constituted organisations can apply without registered charity status.
+2026-05-11: confirmed Round 13 opens 31 July 2026 (deadline 28 Aug; projects Jan-Mar 2027) — earlier than Round 14 and now the priority round. Updated file name note, deadline, next_action_due, and funding_cycle_notes accordingly. Prepare brief by July 2026.

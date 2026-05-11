@@ -6,8 +6,8 @@ funder: National Lottery Community Fund
 funder_type: lottery
 state: apply_now
 state_rationale: Rolling fund, no registered charity required — constituted org with dual-signatory bank account is sufficient. Meets all Stage 1 gates.
-last_updated: 2026-05-04
-last_verified_date: 2026-05-04
+last_updated: 2026-05-11
+last_verified_date: 2026-05-11
 provenance: https://www.tnlcommunityfund.org.uk/funding/funding-programmes/national-lottery-awards-for-all-england/
 
 amount_min: 300
@@ -48,8 +48,8 @@ linked_programmes:
   - starter band
   - instruments and cost-reduction support
 
-next_action: Draft application. Choose one programme strand as the focus — outreach workshops is the strongest fit. Confirm bank account has dual signatories.
-next_action_due: 2026-05-09
+next_action: Draft application. Choose one programme strand as the focus — outreach workshops is the strongest fit. Confirm bank account has dual signatories. (Internal target of 2026-05-09 missed — rescheduled.)
+next_action_due: 2026-05-20
 blocker: ""
 unblock_condition: ""
 review_date: null
@@ -73,3 +73,4 @@ Confirmed no charity registration required. Source: [Who can apply page](https:/
 ## State history
 
 2026-04-18: set to apply_now — first scan, all gates pass, no registration barrier.
+2026-05-11: last_verified_date updated; confirmed still open and rolling. Internal draft target of 2026-05-09 missed; new internal target set to 2026-05-20. Annual accounts not required for organisations less than 15 months old (confirmed via TNLCF who-can-apply page).

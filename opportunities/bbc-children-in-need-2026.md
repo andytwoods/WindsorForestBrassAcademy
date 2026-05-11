@@ -5,9 +5,9 @@ type: opportunity
 funder: BBC Children in Need
 funder_type: charitable_trust
 state: parked
-state_rationale: Grants over £15k require registered charity. Sub-£15k requires "registered not-for-profit organisation" — meaning and threshold unclear for pending charity applicants. Must also show majority of beneficiaries are experiencing disadvantage. Eligibility needs verification before applying.
-last_updated: 2026-05-04
-last_verified_date: 2026-05-04
+state_rationale: Confirmed 2026-05-11: unregistered charities CAN apply for up to £15,000 — charity registration only required for grants over £15k. Remaining blocker: must show majority of beneficiaries are experiencing disadvantage (poverty, disability, neglect etc.). Apply for sub-£15k once disadvantage evidence assembled.
+last_updated: 2026-05-11
+last_verified_date: 2026-05-11
 provenance: https://www.bbcchildreninneed.co.uk/grants/
 
 amount_min: 1000
@@ -17,12 +17,12 @@ funding_cycle: biannual
 funding_cycle_notes: Grant panel meets twice per year. Next decision meeting was April 2026 — check for next intake window. Must book pre-application advice session (mandatory for all applicants).
 
 geography: UK (England)
-charity_registration_required: true
-legal_form_required: Registered charity required for >£15k. "Registered not-for-profit" for smaller grants — definition unclear for pending-charity status.
+charity_registration_required: false
+legal_form_required: Registered charity required for >£15k only. For grants up to £15,000: not-for-profit organisation sufficient — registered charity NOT required (confirmed 2026-05-11).
 eligibility_summary: Not-for-profit organisations working with disadvantaged children and young people under 18. Must show majority of beneficiaries are experiencing disadvantage. Strong safeguarding policy and public liability insurance required. Pre-application advice session mandatory. Turnover cap £2m.
 
 gate_legal_form: pass
-gate_charity_registration: fail
+gate_charity_registration: not_required
 gate_geography: pass
 gate_beneficiary: unclear
 gate_programme: unclear
@@ -48,10 +48,10 @@ linked_programmes:
   - outreach workshops
   - Year 4 school brass teaching
 
-next_action: Resolve two blockers: (1) confirm whether pending charity status satisfies "registered not-for-profit" for sub-£15k grants; (2) confirm whether target school(s) have above-average FSM/Pupil Premium to evidence disadvantage requirement.
+next_action: Blocker 1 (charity registration for sub-£15k) RESOLVED — confirmed unregistered not-for-profits can apply. Remaining action: (1) check target school FSM/Pupil Premium data to evidence disadvantage requirement; (2) book mandatory pre-application advice session once disadvantage case is ready.
 next_action_due: 2026-06-01
-blocker: (1) Charity/registration status eligibility unclear for sub-£15k band; (2) evidence of disadvantage in target beneficiary group not yet assembled
-unblock_condition: Charity number confirmed AND school FSM/Pupil Premium data assembled
+blocker: Evidence of disadvantage in target beneficiary group not yet assembled — must show majority of beneficiaries are experiencing disadvantage (poverty, disability, neglect, etc.)
+unblock_condition: School FSM/Pupil Premium data assembled and disadvantage case confirmed for target beneficiary cohort
 review_date: 2026-06-01
 ---
 
@@ -65,8 +65,11 @@ Also note: mandatory pre-application advice session required for all new applica
 
 ## Eligibility evidence
 
-Registered charity required for >£15k. "Registered not-for-profit" for smaller amounts — definition not explicit. Source: [bbcchildreninneed.co.uk/grants](https://www.bbcchildreninneed.co.uk/grants/), checked 2026-04-18.
+Registered charity required for >£15k. Source: [bbcchildreninneed.co.uk/grants](https://www.bbcchildreninneed.co.uk/grants/), checked 2026-04-18.
+For grants up to £15,000: "We will only consider applications for over £15,000 per year from organisations who have registered with the appropriate regulatory body" — confirmed that unregistered not-for-profits CAN apply for sub-£15k amounts. Source: bbcchildreninneed.co.uk/grants/apply/faqs/, checked 2026-05-11.
+Must show organisation is not for profit, with dissolution clause / asset lock. Majority of beneficiaries must be experiencing disadvantage. Pre-application advice session mandatory for all new applicants.
 
 ## State history
 
 2026-04-18: set to parked — two specific blockers defined; review date set for June 2026.
+2026-05-11: blocker 1 (charity registration for sub-£15k) RESOLVED — confirmed via FAQ page that registration only required for >£15k grants. Single remaining blocker: disadvantage evidence for target beneficiary group. State remains parked pending disadvantage evidence assembly.

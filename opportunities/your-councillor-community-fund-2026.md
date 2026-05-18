@@ -6,8 +6,8 @@ funder: Surrey County Council
 funder_type: local_authority
 state: monitor
 state_rationale: Annual fund; each of SCC's 81 county councillors has £5,000 per year to allocate to local organisations. 2025-26 cycle closed January 2026. 2026-27 cycle expected to open May 2026 based on prior years (opened May 2024, May 2025). Very low-barrier — approach local councillor directly. No charity registration likely required.
-last_updated: 2026-05-11
-last_verified_date: 2026-05-11
+last_updated: 2026-05-18
+last_verified_date: 2026-05-18
 provenance: https://www.surreycc.gov.uk/community/voluntary-community-and-faith-sector/funding/community-projects-fund/community-fund
 
 amount_min: null
@@ -83,3 +83,4 @@ None.
 2026-04-27: set to monitor — 2025-26 cycle closed January 2026; 2026-27 cycle expected May 2026. Email local councillor in early May.
 2026-05-04: confirmed fund website shows "closed to new applications" — consistent with inter-cycle gap. Pattern: opened May 6 2025, closed end January 2026. 2026-27 cycle expected to open around May 5-10 2026. Email Cllr Marisa Heath urgently — within days of cycle opening.
 2026-05-11: fund website still shows "closed to new applications" — 2026-27 cycle has not yet opened (later than expected). Send the relationship email to Cllr Marisa Heath this week regardless; do not wait for cycle to open. Email yccf@surreycc.gov.uk to confirm opening date. Action overdue from 2026-05-06.
+2026-05-18: fund website still shows "closed to new applications" — 2026-27 cycle remains unopened. Introductory email to Cllr Marisa Heath action is now 12 days overdue (was due 2026-05-06). Send email TODAY. Do not carry this action to another scan.

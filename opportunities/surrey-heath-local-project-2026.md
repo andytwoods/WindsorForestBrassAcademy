@@ -6,8 +6,8 @@ funder: Surrey Heath Borough Council
 funder_type: local_authority
 state: monitor
 state_rationale: Next application window expected July 2026. Current window closed. Worth monitoring — Surrey Heath is adjacent to Runnymede and WFBA may have or plan delivery in that area.
-last_updated: 2026-05-04
-last_verified_date: 2026-05-04
+last_updated: 2026-05-18
+last_verified_date: 2026-05-18
 provenance: https://www.surreyheath.gov.uk/community/grants-and-funding/local-project-funding
 
 amount_min: null
@@ -54,6 +54,13 @@ unblock_condition: Delivery activity in Surrey Heath confirmed AND July window o
 review_date: 2026-06-25
 ---
 
+## Notes — CIL fund infrastructure focus
+
+The Surrey Heath Local Project Funding scheme is a CIL (Community Infrastructure Levy) fund. Based on the official guidance, eligible projects typically include improvements to community buildings, children's play areas, and leisure facilities. This is a capital/infrastructure fund focused on physical neighbourhood improvements — it is unlikely to fund programme delivery (e.g. outreach workshops, instrument purchase for a non-Surrey-Heath organisation). WFBA should not invest significant effort in this round unless (a) delivery in Surrey Heath is confirmed, and (b) a capital asset in Surrey Heath can be proposed. Check the July 2026 window criteria carefully before applying.
+
+The Surrey Heath Arts Council (separate from this fund) offers small grants and bursaries for arts activities. This may be worth a separate check if WFBA has any Surrey Heath events or delivery planned.
+
 ## State history
 
 2026-04-18: set to monitor — window closed, July expected; geography to confirm.
+2026-05-18: notes updated — confirmed CIL fund is infrastructure-focused (buildings, play areas, leisure facilities); programme delivery unlikely eligible. Geography (Surrey Heath) remains unconfirmed. July 2026 window expected. Low priority unless WFBA has specific Surrey Heath activity.
